@@ -1,5 +1,4 @@
 # musicPlayer
-The seventh project under the FCC JS algorithms and data structures curriculum.
 This project is a web-based music player that allows users to play, pause, skip, and shuffle songs 
 from a predefined playlist. Users can also delete songs from the playlist and reset it to the original list of songs.
 
