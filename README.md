@@ -1,6 +1,6 @@
 # musicPlayer
 This project is a web-based music player that allows users to play, pause, skip, and shuffle songs 
-from a predefined playlist. Users can also delete songs from the playlist and reset it to the original list of songs.
+from a predefined playlist. Users can also delete songs from the playlist and reset it to the original list of songs
 
 ## Table of Contents
 - [Overview](#overview)
@@ -10,17 +10,17 @@ from a predefined playlist. Users can also delete songs from the playlist and re
 
 ## Overview
 The Music Player project provides a simple and interactive interface for playing a selection of songs. 
-Users can control playback, navigate through the playlist, and shuffle the order of songs.
+Users can control playback, navigate through the playlist, and shuffle the order of songs
 
 ## Features
-- Play and pause songs.
-- Skip to the next or previous song.
-- Shuffle the playlist.
-- Delete songs from the playlist.
-- Reset the playlist to the original set of songs.
+- Play and pause songs
+- Skip to the next or previous song
+- Shuffle the playlist
+- Delete songs from the playlist
+- Reset the playlist to the original set of songs
 
 ## Getting Started
-Follow these instructions to get a copy of the project up and running on your local machine.
+Follow these instructions to get a copy of the project up and running on your local machine
 
 ### Prerequisites
 - A web browser (e.g., Chrome, Firefox, Edge, etc.)
